@@ -1,1 +1,1 @@
-My first readme
+discipline is the key
